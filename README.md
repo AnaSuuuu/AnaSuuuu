@@ -1,3 +1,6 @@
-# Hey, dude! I'm Ana_Su.
+# Hey, dude! 👋 Ana_Su here!
+A naive and confused undergraduate student at JiLin University.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSuuuu)](https://github.com/AnaSuuuu/github-readme-stats)
+![Visitor Count](https://profile-counter.glitch.me/AnaSuuuu/count.svg)
+
+

@@ -1,4 +1,4 @@
-# Hey, dude! 👋 Ana_Su here!
+# Hey, dude! 👋 
 
 ![:name](https://count.getloli.com/get/@:name)
 

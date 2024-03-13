@@ -1,6 +1,6 @@
 # Hey, dude! 👋 
 
-![AnaSuuuu](https://count.getloli.com/get/@:AnaSuuuu)
+![AnaSuuuu](https://count.getloli.com/get/@:AnaSuuuu?theme=asoul)
 
 ![AnsSuuuu's github stats](https://github-readme-stats.vercel.app/api?username=AnaSuuuu&show_icons=true&theme=gruvbox)
 

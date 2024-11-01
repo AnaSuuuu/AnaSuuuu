@@ -5,3 +5,5 @@
 ![AnsSuuuu's github stats](https://github-readme-stats.vercel.app/api?username=AnaSuuuu&show_icons=true&theme=gruvbox)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSuuuu&layout=compact&langs_count=6&theme=gruvbox)
+
+![](https://github-readme-stats.vercel.app/api?username=AnaSuuuu&count_private=true&show_icons=true&theme=transparent)

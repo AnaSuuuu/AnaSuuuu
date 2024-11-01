@@ -6,9 +6,3 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaSuuuu&layout=compact&langs_count=6&theme=gruvbox)
 
-![](https://github-readme-stats.vercel.app/api?username=AnaSuuuu&count_private=true&show_icons=true&theme=transparent)
-
-![](https://raw.githubusercontent.com/AnaSuuuu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AnaSuuuu/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/AnaSuuuu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AnaSuuuu/github-stats/master/generated/overview.svg#gh-light-mode-only)
